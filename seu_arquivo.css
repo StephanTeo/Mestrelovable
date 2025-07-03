@@ -1,0 +1,9 @@
+/* Adicione aqui seus estilos customizados. Exemplo: */
+body {
+  /* font-family já está definido pelo Tailwind/Montserrat, mas pode customizar aqui */
+}
+
+/* Exemplo de customização extra: */
+.hero-gradient {
+  /* background customizado se quiser */
+}
